@@ -55,13 +55,13 @@ L'utilisation d'une machine secondaire avec un système d'exploitation quelconqu
 ### Étape 4
 
 Le sauvegarde s'affiche
-https://github.com/Pyncro/sisr-sauvegarde_restauration/blob/main/fog%20tp/imagesavailable.PNG
+<img src ="https://github.com/Pyncro/sisr-sauvegarde_restauration/blob/main/fog%20tp/imagesavailable.PNG" />
 
 Associer une image avec la machine pour faire un backup
-https://github.com/Pyncro/sisr-sauvegarde_restauration/blob/main/fog%20tp/registerimage.PNG
+<img src ="https://github.com/Pyncro/sisr-sauvegarde_restauration/blob/main/fog%20tp/registerimage.PNG" />
 
 Les machines sauvegardé.
-https://github.com/Pyncro/sisr-sauvegarde_restauration/blob/main/fog%20tp/servers-registered.PNG
+<img src ="https://github.com/Pyncro/sisr-sauvegarde_restauration/blob/main/fog%20tp/servers-registered.PNG" />
 
 #### Source
 
