@@ -52,6 +52,17 @@ L'utilisation d'une machine secondaire avec un système d'exploitation quelconqu
 
 <img src="https://github.com/Pyncro/sisr-sauvegarde_restauration/blob/main/fog%20tp/fogf12.PNG" />
 
+### Étape 4
+
+Le sauvegarde s'affiche
+https://github.com/Pyncro/sisr-sauvegarde_restauration/blob/main/fog%20tp/imagesavailable.PNG
+
+Associer une image avec la machine pour faire un backup
+https://github.com/Pyncro/sisr-sauvegarde_restauration/blob/main/fog%20tp/registerimage.PNG
+
+Les machines sauvegardé.
+https://github.com/Pyncro/sisr-sauvegarde_restauration/blob/main/fog%20tp/servers-registered.PNG
+
 #### Source
 
-deploiement-fogproject
+https://www.infothema.fr/documents/juillet-2022/fogproject.pdf
